@@ -1,0 +1,8 @@
+This is manual how to start
+First, command 'make'. It make executive files.
+Second, make csv file which is originally one column. You can choose the number of cardinality.
+Type the command "./makecolumn <filename>".
+For example, type the command "./makecolumn <column name>" and the number of cardinality, it creates a number of 10,000,000 which is random number.
+Third, If you want to make bitmaps which is compressed, type this command "./superBBC_c <csvfile> <directory>". Before you give this command, you must make directory.
+Last, type the command "./superBBC_d "SQL syntax"(must Quotation mark)". You type "FROM <directory> WHERE <minimum range> '<' or '<=' <column name> '<' or '<=' <maximum range>".
+The output is elapsed time and hits.
