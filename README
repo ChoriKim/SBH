@@ -14,4 +14,4 @@ Last, type the command "./superBBC_d "SQL syntax"(must Quotation mark)". You typ
 The output is elapsed time and hit count (the number of elements satisfying to the condition).
 
 /**update**/
-The bigdata folder has sources to processing massive data. The interface is not served.
+The bigdata folder has sources to process massive data. The interface is not served.
