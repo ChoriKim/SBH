@@ -12,3 +12,6 @@ Third, If you want to make bitmaps which is compressed, type this command "./sup
 Last, type the command "./superBBC_d "SQL syntax"(must Quotation mark)". You type "FROM <directory> WHERE <minimum range> '<' or '<=' <column name> '<' or '<=' <maximum range>".
 
 The output is elapsed time and hit count (the number of elements satisfying to the condition).
+
+/**update**/
+The bigdata folder has sources to processing massive data. The interface is not served.
